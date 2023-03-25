@@ -8,7 +8,7 @@
     "start": "nodemon app.js",
     "serve": "nodemon server.js"
   },
-  "author": "Sarthak Thukran",
+  "author": "Gursimar Singh",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.3",
